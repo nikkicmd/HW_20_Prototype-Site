@@ -5,7 +5,7 @@ body {
 
 
 #hero {
-    background-image: url("../images/hero.png");
+    background-image: url("images/hero.png");
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
@@ -90,7 +90,7 @@ nav .hamburger {
 
 
 #adventure .adventure-card {
-background-image: url("../images/adventure-card.png");
+background-image: url("images/adventure-card.png");
 background-size:cover ;
 height:565px;
 display: flex;
@@ -138,7 +138,7 @@ h4 {
 
 #subscribe {
 
-    background-image: url("../images/sf-bridge.png");
+    background-image: url("images/sf-bridge.png");
 
     color:white;
     text-align: center;
